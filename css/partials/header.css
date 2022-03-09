@@ -1,0 +1,13 @@
+header {
+    background: #001d4e;
+    width: 100%;
+}
+
+.content-header {
+    width: 100%;
+}
+
+.content-header img {
+    height: 110px;
+    width: 92px;
+}
